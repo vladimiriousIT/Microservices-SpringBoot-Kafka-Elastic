@@ -4,6 +4,7 @@ import com.microservices.demo.twitter.to.kafka.service.init.StreamInitializer;
 import com.microservices.demo.twitter.to.kafka.service.runner.StreamRunner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -19,7 +20,7 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
 
     private final StreamInitializer streamInitializer;
 
-    public TwitterToKafkaServiceApplication(StreamRunner runner, StreamInitializer initializer) {
+    public TwitterToKafkaServiceApplication(@Qualifier("twitterKafkaStreamRunner") StreamRunner runner, StreamInitializer initializer) {
         this.streamRunner = runner;
         this.streamInitializer = initializer;
     }

@@ -1,4 +1,4 @@
-com/microservices/demo/common/config/RetryConfigData.class
-com/microservices/demo/common/config/TwitterToKafkaServiceConfigData.class
-com/microservices/demo/common/config/KafkaProducerConfigData.class
-com/microservices/demo/common/config/KafkaConfigData.class
+com/microservices/demo/config/TwitterToKafkaServiceConfigData.class
+com/microservices/demo/config/RetryConfigData.class
+com/microservices/demo/config/KafkaProducerConfigData.class
+com/microservices/demo/config/KafkaConfigData.class

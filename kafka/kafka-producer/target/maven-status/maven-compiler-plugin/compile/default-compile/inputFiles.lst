@@ -1,3 +1,3 @@
-/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java
-/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java
-/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java
+/Users/vladistratiev/Downloads/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java
+/Users/vladistratiev/Downloads/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java
+/Users/vladistratiev/Downloads/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java
