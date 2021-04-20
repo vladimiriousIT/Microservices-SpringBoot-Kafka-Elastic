@@ -1,0 +1,4 @@
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/app-config-data/src/main/java/com/microservices/demo/common/config/TwitterToKafkaServiceConfigData.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/app-config-data/src/main/java/com/microservices/demo/common/config/KafkaConfigData.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/app-config-data/src/main/java/com/microservices/demo/common/config/RetryConfigData.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/app-config-data/src/main/java/com/microservices/demo/common/config/KafkaProducerConfigData.java

@@ -1,0 +1,4 @@
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/exception/KafkaClientException.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/WebClientConfig.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/KafkaAdminConfig.java
+/Users/vladistratiev/Downloads/Microservices-SpringBoot-Kafka-Elastic/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/client/KafkaAdminClient.java

@@ -1,0 +1,535 @@
+# Created at 2021-04-16T17:25:34.709
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-04-16T17:25:35.238
+Unexpected IOException with stream: 2021-04-16 17:25:35 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:35.447
+Unexpected IOException with stream: 2021-04-16 17:25:35 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:35.551
+Unexpected IOException with stream: 2021-04-16 17:25:35 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:36.281
+Unexpected IOException with stream: 2021-04-16 17:25:36 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:36.490
+Unexpected IOException with stream: 2021-04-16 17:25:36 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:36.595
+Unexpected IOException with stream: 2021-04-16 17:25:36 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:37.535
+Unexpected IOException with stream: 2021-04-16 17:25:37 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:37.538
+Unexpected IOException with stream: 2021-04-16 17:25:37 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:37.643
+Unexpected IOException with stream: 2021-04-16 17:25:37 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:38.474
+Unexpected IOException with stream: 2021-04-16 17:25:38 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:38.686
+Unexpected IOException with stream: 2021-04-16 17:25:38 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:38.688
+Unexpected IOException with stream: 2021-04-16 17:25:38 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:39.523
+Unexpected IOException with stream: 2021-04-16 17:25:39 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:39.525
+Unexpected IOException with stream: 2021-04-16 17:25:39 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:39.836
+Unexpected IOException with stream: 2021-04-16 17:25:39 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:40.567
+Unexpected IOException with stream: 2021-04-16 17:25:40 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:40.671
+Unexpected IOException with stream: 2021-04-16 17:25:40 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:40.774
+Unexpected IOException with stream: 2021-04-16 17:25:40 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:41.610
+Unexpected IOException with stream: 2021-04-16 17:25:41 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:41.611
+Unexpected IOException with stream: 2021-04-16 17:25:41 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:42.028
+Unexpected IOException with stream: 2021-04-16 17:25:42 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:42.552
+Unexpected IOException with stream: 2021-04-16 17:25:42 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:42.865
+Unexpected IOException with stream: 2021-04-16 17:25:42 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:43.076
+Unexpected IOException with stream: 2021-04-16 17:25:43 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:43.493
+Unexpected IOException with stream: 2021-04-16 17:25:43 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:43.910
+Unexpected IOException with stream: 2021-04-16 17:25:43 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:44.017
+Unexpected IOException with stream: 2021-04-16 17:25:44 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:44.642
+Unexpected IOException with stream: 2021-04-16 17:25:44 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:44.851
+Unexpected IOException with stream: 2021-04-16 17:25:44 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:44.956
+Unexpected IOException with stream: 2021-04-16 17:25:44 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:45.687
+Unexpected IOException with stream: 2021-04-16 17:25:45 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:45.895
+Unexpected IOException with stream: 2021-04-16 17:25:45 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:46.210
+Unexpected IOException with stream: 2021-04-16 17:25:46 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:46.941
+Unexpected IOException with stream: 2021-04-16 17:25:46 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:46.943
+Unexpected IOException with stream: 2021-04-16 17:25:46 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:47.254
+Unexpected IOException with stream: 2021-04-16 17:25:47 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:47.881
+Unexpected IOException with stream: 2021-04-16 17:25:47 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:48.194
+Unexpected IOException with stream: 2021-04-16 17:25:48 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:48.301
+Unexpected IOException with stream: 2021-04-16 17:25:48 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:48.821
+Unexpected IOException with stream: 2021-04-16 17:25:48 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:49.135
+Unexpected IOException with stream: 2021-04-16 17:25:49 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:49.344
+Unexpected IOException with stream: 2021-04-16 17:25:49 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:49.866
+Unexpected IOException with stream: 2021-04-16 17:25:49 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:49.974
+Unexpected IOException with stream: 2021-04-16 17:25:49 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:50.492
+Unexpected IOException with stream: 2021-04-16 17:25:50 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:50.910
+Unexpected IOException with stream: 2021-04-16 17:25:50 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:50.911
+Unexpected IOException with stream: 2021-04-16 17:25:50 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:51.432
+Unexpected IOException with stream: 2021-04-16 17:25:51 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:52.059
+Unexpected IOException with stream: 2021-04-16 17:25:52 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:52.060
+Unexpected IOException with stream: 2021-04-16 17:25:52 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:52.477
+Unexpected IOException with stream: 2021-04-16 17:25:52 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:52.896
+Unexpected IOException with stream: 2021-04-16 17:25:52 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:53.105
+Unexpected IOException with stream: 2021-04-16 17:25:53 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:53.731
+Unexpected IOException with stream: 2021-04-16 17:25:53 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:54.044
+Unexpected IOException with stream: 2021-04-16 17:25:54 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:54.149
+Unexpected IOException with stream: 2021-04-16 17:25:54 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:54.981
+Unexpected IOException with stream: 2021-04-16 17:25:54 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:54.982
+Unexpected IOException with stream: 2021-04-16 17:25:54 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:55.087
+Unexpected IOException with stream: 2021-04-16 17:25:55 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:55.926
+Unexpected IOException with stream: 2021-04-16 17:25:55 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:56.137
+Unexpected IOException with stream: 2021-04-16 17:25:56 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:56.243
+Unexpected IOException with stream: 2021-04-16 17:25:56 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:56.862
+Unexpected IOException with stream: 2021-04-16 17:25:56 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:57.284
+Unexpected IOException with stream: 2021-04-16 17:25:57 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:57.493
+Unexpected IOException with stream: 2021-04-16 17:25:57 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:57.807
+Unexpected IOException with stream: 2021-04-16 17:25:57 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:57.932
+Unexpected IOException with stream: 2021-04-16 17:25:57 INFO  [kafka-admin-client-thread | adminclient-1] o.a.k.c.a.i.AdminMetadataManager - [AdminClient clientId=adminclient-1] Metadata update failed
+org.apache.kafka.common.errors.TimeoutException: Call(callName=fetchMetadata, deadlineMs=1618583157924, tries=1, nextAllowedTryMs=1618583158025) timed out at 1618583157925 after 1 attempt(s)
+Caused by: org.apache.kafka.common.errors.TimeoutException: Timed out waiting for a node assignment.
+
+
+# Created at 2021-04-16T17:25:58.250
+Unexpected IOException with stream: 2021-04-16 17:25:58 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:58.355
+Unexpected IOException with stream: 2021-04-16 17:25:58 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:58.875
+Unexpected IOException with stream: 2021-04-16 17:25:58 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:59.186
+Unexpected IOException with stream: 2021-04-16 17:25:59 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:25:59.398
+Unexpected IOException with stream: 2021-04-16 17:25:59 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:00.023
+Unexpected IOException with stream: 2021-04-16 17:26:00 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:00.443
+Unexpected IOException with stream: 2021-04-16 17:26:00 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:00.445
+Unexpected IOException with stream: 2021-04-16 17:26:00 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:00.961
+Unexpected IOException with stream: 2021-04-16 17:26:00 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:01.382
+Unexpected IOException with stream: 2021-04-16 17:26:01 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:01.695
+Unexpected IOException with stream: 2021-04-16 17:26:01 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:02.218
+Unexpected IOException with stream: 2021-04-16 17:26:02 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:02.324
+Unexpected IOException with stream: 2021-04-16 17:26:02 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:02.740
+Unexpected IOException with stream: 2021-04-16 17:26:02 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:03.357
+Unexpected IOException with stream: 2021-04-16 17:26:03 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:03.459
+Unexpected IOException with stream: 2021-04-16 17:26:03 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:03.670
+Unexpected IOException with stream: 2021-04-16 17:26:03 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:04.297
+Unexpected IOException with stream: 2021-04-16 17:26:04 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:04.400
+Unexpected IOException with stream: 2021-04-16 17:26:04 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:04.610
+Unexpected IOException with stream: 2021-04-16 17:26:04 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:05.446
+Unexpected IOException with stream: 2021-04-16 17:26:05 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:05.448
+Unexpected IOException with stream: 2021-04-16 17:26:05 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:05.760
+Unexpected IOException with stream: 2021-04-16 17:26:05 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:06.491
+Unexpected IOException with stream: 2021-04-16 17:26:06 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:06.594
+Unexpected IOException with stream: 2021-04-16 17:26:06 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:06.908
+Unexpected IOException with stream: 2021-04-16 17:26:06 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:07.431
+Unexpected IOException with stream: 2021-04-16 17:26:07 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:07.536
+Unexpected IOException with stream: 2021-04-16 17:26:07 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:08.059
+Unexpected IOException with stream: 2021-04-16 17:26:08 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:08.573
+Unexpected IOException with stream: 2021-04-16 17:26:08 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:08.786
+Unexpected IOException with stream: 2021-04-16 17:26:08 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:09.306
+Unexpected IOException with stream: 2021-04-16 17:26:09 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:09.516
+Unexpected IOException with stream: 2021-04-16 17:26:09 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:10.034
+Unexpected IOException with stream: 2021-04-16 17:26:10 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:10.554
+Unexpected IOException with stream: 2021-04-16 17:26:10 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:10.555
+Unexpected IOException with stream: 2021-04-16 17:26:10 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:11.075
+Unexpected IOException with stream: 2021-04-16 17:26:11 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:11.598
+Unexpected IOException with stream: 2021-04-16 17:26:11 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:11.704
+Unexpected IOException with stream: 2021-04-16 17:26:11 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:12.329
+Unexpected IOException with stream: 2021-04-16 17:26:12 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:12.539
+Unexpected IOException with stream: 2021-04-16 17:26:12 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:12.957
+Unexpected IOException with stream: 2021-04-16 17:26:12 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:13.168
+Unexpected IOException with stream: 2021-04-16 17:26:13 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:13.374
+Unexpected IOException with stream: 2021-04-16 17:26:13 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:14.001
+Unexpected IOException with stream: 2021-04-16 17:26:14 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:14.210
+Unexpected IOException with stream: 2021-04-16 17:26:14 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:14.630
+Unexpected IOException with stream: 2021-04-16 17:26:14 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:15.046
+Unexpected IOException with stream: 2021-04-16 17:26:15 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:15.254
+Unexpected IOException with stream: 2021-04-16 17:26:15 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:15.883
+Unexpected IOException with stream: 2021-04-16 17:26:15 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:16.093
+Unexpected IOException with stream: 2021-04-16 17:26:16 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:16.301
+Unexpected IOException with stream: 2021-04-16 17:26:16 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:16.823
+Unexpected IOException with stream: 2021-04-16 17:26:16 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:17.134
+Unexpected IOException with stream: 2021-04-16 17:26:17 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:17.345
+Unexpected IOException with stream: 2021-04-16 17:26:17 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:17.658
+Unexpected IOException with stream: 2021-04-16 17:26:17 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:18.287
+Unexpected IOException with stream: 2021-04-16 17:26:18 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:18.392
+Unexpected IOException with stream: 2021-04-16 17:26:18 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:18.913
+Unexpected IOException with stream: 2021-04-16 17:26:18 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:19.227
+Unexpected IOException with stream: 2021-04-16 17:26:19 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:19.435
+Unexpected IOException with stream: 2021-04-16 17:26:19 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:19.957
+Unexpected IOException with stream: 2021-04-16 17:26:19 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -1 (localhost/127.0.0.1:19092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:20.167
+Unexpected IOException with stream: 2021-04-16 17:26:20 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -3 (localhost/127.0.0.1:39092) could not be established. Broker may not be available.
+
+
+# Created at 2021-04-16T17:26:20.482
+Unexpected IOException with stream: 2021-04-16 17:26:20 WARN  [kafka-admin-client-thread | adminclient-1] o.apache.kafka.clients.NetworkClient - [AdminClient clientId=adminclient-1] Connection to node -2 (localhost/127.0.0.1:29092) could not be established. Broker may not be available.
+
+
